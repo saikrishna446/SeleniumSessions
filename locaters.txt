@@ -1,0 +1,49 @@
+
+//input[@placeholder='Type of Request *']
+//input[@placeholder='Priority *']
+//input[@placeholder='Group Requesting *']
+//textarea[@placeholder='Requested Deadline/Rationale *']
+//input[@placeholder='TASC Team Owner']
+
+Training and Comminication
+
+
+//input[@placeholder='Subject Matter Expert(s) *']
+//input[@placeholder='Approver *']
+//textarea[@placeholder='Audience *']
+//textarea[@placeholder='Problem / Focus *']
+//textarea[@placeholder='Business Impact *']
+//textarea[@placeholder='Definition of Success *']
+//textarea[@placeholder='Existing Content *']
+//textarea[@placeholder='Legal Considerations *']
+//textarea[@placeholder='Data *']
+//input[@placeholder='Preference or vision for TASC project *']
+
+Online Event Support
+
+
+//input[@placeholder='Do you already have an event planned *']
+
+//span[@class='checkbox-text'][normalize-space()='Video Editing']
+//textarea[@placeholder='Other Information']
+
+Project Support
+
+
+//textarea[@placeholder='Please tell us a little bit about what you’re looking for help with and share any preferences for when you’d like to meet: *']
+
+
+
+Calendar Update
+//input[@placeholder='Type of Calendar Update *']
+//input[@placeholder='Event Date and Time *']
+//input[@placeholder='Event Name *']
+//input[@placeholder='Number of Attendees from TA (Estimated) *']
+
+
+
+Share Point
+//input[@placeholder='Type of Sharepoint Update *']
+//textarea[@placeholder='Additional Notes']
+
+Internal Bid - Ground Ops and Cargo Agents
